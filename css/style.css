@@ -47,6 +47,11 @@ nav {
     align-items: center;
 }
 
+.logo h1 a{
+    color: white;
+    text-decoration: none;
+}
+
 .nav-links {
     display: flex;
     list-style: none;
